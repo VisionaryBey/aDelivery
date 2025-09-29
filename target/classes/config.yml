@@ -1,0 +1,29 @@
+settings:
+  gui:
+    title: "&aTeslimat Menüsü"
+    filler:
+      enabled: true
+      material: BLACK_STAINED_GLASS_PANE
+
+deliveries:
+  item1:
+    gui-slot: 11
+    item:
+      material: DIAMOND
+      name: "&bElmas Teslimatı"
+      lore:
+        - "&7Elmas teslim et!"
+  item2:
+    gui-slot: 13
+    item:
+      material: GOLD_INGOT
+      name: "&6Altın Teslimatı"
+      lore:
+        - "&7Altın teslim et!"
+  item3:
+    gui-slot: 15
+    item:
+      material: IRON_INGOT
+      name: "&fDemir Teslimatı"
+      lore:
+        - "&7Demir teslim et!"

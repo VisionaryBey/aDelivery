@@ -1,0 +1,11 @@
+com\agira\teslimat\commands\TeslimatCommand.class
+com\agira\teslimat\tasks\TeslimatTask.class
+com\agira\teslimat\listeners\DeliveryListener.class
+com\agira\teslimat\placeholders\DeliveryPlaceholder.class
+com\agira\teslimat\utils\MessageUtils.class
+com\agira\teslimat\gui\DeliveryGUI.class
+com\agira\teslimat\utils\DataManager.class
+com\agira\teslimat\gui\ConfirmGUI.class
+com\agira\teslimat\listeners\ConfirmListener.class
+com\agira\teslimat\gui\TopGUI.class
+com\agira\teslimat\TeslimatPlugin.class

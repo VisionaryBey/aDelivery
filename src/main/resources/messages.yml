@@ -1,0 +1,44 @@
+prefix: "&&6Teslimat &8➤ "
+
+commands:
+  reload: "&aAyarlar ve mesajlar yenilendi!"
+
+errors:
+  not_player: "&cBu komut sadece oyuncular tarafından kullanılabilir!"
+  no_permission: "&cBu komutu kullanma yetkin yok!"
+  invalid_usage: "&cYanlış kullanım! &7Doğru: &e{usage}"
+  no_item: "&cEnvanterinde teslim edecek {item} bulunamadı."
+
+delivery:
+  confirm_title: "&aTeslimatı Onayla: {id}"
+  confirm_yes: "&a{amount} adet {item} teslim edildi!"
+  confirm_no: "&cTeslimat iptal edildi."
+  already_none: "&cTeslim edilecek eşya bulunamadı."
+  gui_title: "&aTeslimat Menüsü"
+  top_title: "&6Teslimat Sıralamaları"
+
+season:
+  expired: "&cTeslimat süresi sona erdi!"
+  new_season: "&aYeni teslimat sezonu başladı! Süre: &e{days} gün"
+#Placeholder's
+#&b=== 1. Ürün Teslimatı ===
+#1. %teslimat_top1_name_item1% (%teslimat_top1_amount_item1%)
+#2. %teslimat_top2_name_item1% (%teslimat_top2_amount_item1%)
+#3. %teslimat_top3_name_item1% (%teslimat_top3_amount_item1%)
+#4. %teslimat_top4_name_item1% (%teslimat_top4_amount_item1%)
+#5. %teslimat_top5_name_item1% (%teslimat_top5_amount_item1%)
+#   &6=== 2. Ürün Teslimatı ===
+#  1. %teslimat_top1_name_item2% (%teslimat_top1_amount_item2%)
+#  2. %teslimat_top2_name_item2% (%teslimat_top2_amount_item2%)
+#  3. %teslimat_top3_name_item2% (%teslimat_top3_amount_item2%)
+#  4. %teslimat_top4_name_item2% (%teslimat_top4_amount_item2%)
+#  5. %teslimat_top5_name_item2% (%teslimat_top5_amount_item2%)
+#&f=== 3.Ürün  Teslimatı ===
+#1. %teslimat_top1_name_item3% (%teslimat_top1_amount_item3%)
+#2. %teslimat_top2_name_item3% (%teslimat_top2_amount_item3%)
+#3. %teslimat_top3_name_item3% (%teslimat_top3_amount_item3%)
+#4. %teslimat_top4_name_item3% (%teslimat_top4_amount_item3%)
+#5. %teslimat_top5_name_item3% (%teslimat_top5_amount_item3%)
+#&fToplam Teslim: &a%teslimat_toplam_item3%
+#&fSenin Teslimin: &a%teslimat_ben_item3%
+#&fKalan Gün: &e%teslimat_expire%
